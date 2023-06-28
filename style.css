@@ -54,6 +54,7 @@ header{
 }
 
 h1{
+    max-width: 450px;
     font-size: 3em;
     padding: 2%;
 }
